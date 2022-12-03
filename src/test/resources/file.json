@@ -1,0 +1,5 @@
+{
+  "client_name": "Vigo",
+  "items": ["car", "home"],
+  "creditLimit": 100000000
+}

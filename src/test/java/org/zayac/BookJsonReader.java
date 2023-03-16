@@ -18,6 +18,5 @@ public class BookJsonReader {
         assertThat(book.getCreditLimit()).isEqualTo(100000000);
         assertThat(book.getClient_name()).isEqualTo("Vigo");
         assertThat(book.getItems()).contains("car");
-
     }
 }
